@@ -1,7 +1,7 @@
 <h1 align="center">Miguel Enrique Dasalla</h1>
 
 <div align="center">
-    <img src="./images/banner.jpg">
+    <img src="./images/banner.png">
 </div>
 
 ---
