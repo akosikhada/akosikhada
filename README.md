@@ -32,16 +32,18 @@
     <table>
         <tr>
             <td width="50%">
-                <img src="./images/night-coding-gif.gif" width="400px"/>
+                <img src="./images/night-coding-gif.gif" width="350px"/>
             </td>
             <td width="50%">
-                <img src="./images/code-coffee-repeat-gif.gif" width="400px"/>
+                <img src="./images/code-coffee-repeat-gif.gif" width="350px"/>
             </td>
         </tr>
     </table>
 </p>
 
-**_*Code, coffee, repeat. Turning caffeine into code.*_**
+<h3>
+    <i>Code, coffee, repeat. Turning caffeine into code.</i>
+</h3>
 
 </div>
 
