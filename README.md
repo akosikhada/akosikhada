@@ -41,9 +41,9 @@
     </table>
 </p>
 
-<h3>
+<h4>
     <i>Code, coffee, repeat. Turning caffeine into code.</i>
-</h3>
+</h4>
 
 </div>
 
