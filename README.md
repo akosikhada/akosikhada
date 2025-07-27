@@ -36,10 +36,10 @@
         </tr>
         <tr>
             <td width="50%">
-                <img src="./images/night-coding-gif.gif" width="350px"/>
+                <img src="./images/night-coding-gif.gif" width="300px"/>
             </td>
             <td width="50%">
-                <img src="./images/code-coffee-repeat-gif.gif" width="350px"/>
+                <img src="./images/code-coffee-repeat-gif.gif" width="300px"/>
             </td>
         </tr>
     </table>
