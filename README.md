@@ -28,8 +28,12 @@
 
 <div align="center">
 
-<p align="center">
-    <table>
+<table>
+        <tr>
+            <td colspan="2" align="center">
+                <h4><i>Code, coffee, repeat. Turning caffeine into code.</i></h4>
+            </td>
+        </tr>
         <tr>
             <td width="50%">
                 <img src="./images/night-coding-gif.gif" width="350px"/>
@@ -39,11 +43,6 @@
             </td>
         </tr>
     </table>
-</p>
-
-<h4>
-    <i>Code, coffee, repeat. Turning caffeine into code.</i>
-</h4>
 
 </div>
 
