@@ -1,7 +1,7 @@
 <h1 align="center">Miguel Enrique Dasalla</h1>
 
 <div align="center">
-    <img src="./images/banner.png">
+    <picture><img src="./images/programming-banner.png"><picture>
 </div>
 
 ---
@@ -22,9 +22,9 @@
 
 <div align="center">
 
-![Visitor Count](https://profile-counter.glitch.me/akosikhada/count.svg)
+![Night Coding](images/night-coding-gif.gif)
 
-**Coffee Count**
+**Night coding**
 
 </div>
 
