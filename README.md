@@ -14,6 +14,11 @@
             </td>
         </tr>
         <tr>
+            <td colspan="2" align="center">
+                <img src="https://github-readme-streak-stats.herokuapp.com/?user=akosikhada&theme=graywhite&hide_border=true&border_radius=16" alt="akosikhada's Github Streak">
+            </td>
+        </tr>
+        <tr>
             <td width="50%">
                 <img src="https://github-readme-stats-akosikhada.vercel.app/api/top-langs?username=akosikhada&theme=graywhite&hide_border=true&custom_title=Github/akosikhada/Top+Languages&border_radius=16&card_width=400" alt="akosikhada's Top Languages">
             </td>
